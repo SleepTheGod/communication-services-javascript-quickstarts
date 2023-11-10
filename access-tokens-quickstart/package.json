@@ -11,7 +11,7 @@
   "dependencies": {
     "@azure/communication-common": "^1.1.0",
     "@azure/communication-identity": "^1.0.0",
-    "@azure/identity": "^1.5.1"
+    "@azure/identity": "^4.0.0"
   },
   "description": ""
 }
